@@ -1,0 +1,24 @@
+.content{
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+    font-family: Impact;
+    margin: 55px 0;
+}
+
+p{
+    font-size: 35px;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    margin: 30px 0;
+}
+button:hover{
+    background-color: green;
+}
